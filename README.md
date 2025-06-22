@@ -1,6 +1,6 @@
 💼 JobStack – MERN-based Job Portal Web Application
 JobStack is a full-featured MERN Stack job portal designed to streamline the hiring and job application process. With dedicated user roles for Applicants and Recruiters, this web app provides a seamless and secure platform for job seekers and recruiters to interact.
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+
 🚀 Features
 👤 Authentication & Authorization
 Role-based user sign-up (Applicant / Recruiter)
